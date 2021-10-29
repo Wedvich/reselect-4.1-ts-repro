@@ -1,0 +1,12 @@
+{
+  "name": "reselect-4.1-ts-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Wedvich/reselect-4.1-ts-repro.git",
+  "author": "Martin Wedvich <wedvich@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "reselect": "^4.1.1",
+    "typescript": "^4.4.4"
+  }
+}
